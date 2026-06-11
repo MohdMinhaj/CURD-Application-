@@ -1,0 +1,5 @@
+com\excelr\UpdateData.class
+com\excelr\DeleteData.class
+com\excelr\SampleCRUD.class
+com\excelr\RetriveAll.class
+com\excelr\RetriveData.class
